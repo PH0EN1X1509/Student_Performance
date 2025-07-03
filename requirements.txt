@@ -1,5 +1,8 @@
 pandas
 numpy
 seaborn
-
+matplot
+scikit-learn
+xgboost
+catboost
 -e . # will run setup.py
