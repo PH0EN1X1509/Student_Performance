@@ -5,4 +5,5 @@ matplot
 scikit-learn
 xgboost
 catboost
--e . # will run setup.py
+dill
+#-e . # will run setup.py
